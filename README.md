@@ -1,0 +1,1 @@
+This is a basic implementation of a model that checks whether a hand is touching users face or not. It does not have depth clarity yet, therefore it can't accurately tell whether a hand is actually touching the user or not, hence, a basic implementation.
